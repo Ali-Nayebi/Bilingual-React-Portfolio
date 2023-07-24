@@ -236,3 +236,8 @@ blockquote {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 }
+* {
+    -moz-font-feature-settings: "ss02";
+    -webkit-font-feature-settings: "ss02";
+    font-feature-settings: "ss02";
+}
